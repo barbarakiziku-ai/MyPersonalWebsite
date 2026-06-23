@@ -1,0 +1,22 @@
+---
+pagetitle: "Barbra Kiziku Otiende | Home"
+title: "Barbra Kiziku Otiende"
+image: www/profpic.jpeg
+about: 
+  template: jolla
+  links: 
+  - text: LinkedIn
+    icon: linkedin
+    url: "https://www.linkedin.com/in/barbra-kiziku/"
+  
+  - text: GitHub
+    icon: github
+    url: "https://github.com/barbarakiziku-ai"
+    
+  - text: Email
+    icon: envelop-fill
+    url: "barbarakiziku@gmail.com"
+comments: false
+---
+
+about
