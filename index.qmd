@@ -1,7 +1,7 @@
 ---
 pagetitle: "Barbra Kiziku Otiende | Home"
 title: "Barbra Kiziku Otiende"
-image: www/profpic.jpeg
+image: www/profile_pic.jpeg
 about: 
   template: jolla
   links: 
