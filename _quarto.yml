@@ -1,0 +1,46 @@
+project:
+  type: website
+  resources: 
+   - "www/Resume.pdf"
+
+website: 
+  title: "Barbra K. Otiende"
+  site-url: https://kizikuotiende.com
+  description: "I am a Biostatistician ready to bring impact in your company"
+  favicon: www/favicon.ico
+  open-graph: 
+    locale: en-KE
+    
+  navbar: 
+    backgroung: dark
+    foreground: white
+    search: true
+    right: 
+      - text: "Home"
+        icon: house-fill
+        href: index.qmd
+        
+      - text: "Blog"
+        icon: substack
+        href: Content/blog.qmd
+        
+      - text: "Project"
+        icon: kanban
+        href: Content/project.qmd
+        
+  page-footer: 
+    border: true
+    left: "website created by Kiziku"
+    
+  cookie-consent: 
+    type: express
+    prefs-text: "Change your cookie prefrences"
+    
+format: 
+  html:
+    theme: cosmo
+    css: www/styles.css
+    toc: true
+
+editor: visual
+
